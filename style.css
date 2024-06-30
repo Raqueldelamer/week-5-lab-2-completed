@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  h1 {
+    padding: 10px;
+    color: white;
+    background-color: blue;
+  }
+  
+  p {
+    padding: 15px;
+    color: white;
+    background-color: lightseagreen;
+    word-wrap: normal;
+  }
+  
+  button {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: turquoise;
+  }
